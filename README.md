@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Javad Moghofei
+- I am Javad Moghofei
+- I’m currently learning React
+- Telegram : @Javad_m98
 <!--
 **thisJavad98/thisJavad98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
