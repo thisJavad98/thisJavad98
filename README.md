@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I am Javad Moghofei
-- I’m currently learning React
+- I’m currently learning React and next.js
 - Telegram : @Javad_m98
 
 ## 🌐 Socials:
