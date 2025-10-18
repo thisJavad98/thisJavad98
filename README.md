@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - I am Javad Moghofei
-- I’m currently learning React and next.js
+- I’m currently learning Golang and Javascript/Typescript
+- Email : mj407382@gmail.com
 - Telegram : @Javad_m98
 
 ## 🌐 Socials:
